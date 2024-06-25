@@ -1,3 +1,3 @@
 # EotB
 
-Presentation at UT.
+Archive of presentations, documents, and etc.
